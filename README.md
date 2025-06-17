@@ -9,4 +9,6 @@ Adds a new admin user with the given username and password. Defaults to 'forme:f
 python3 magento_shoplift.py http://targeturl -u username -p password
 ```
 
+### Disclaimer 
 
+For educational purposes only, do not use without express permissiom. The owner of the repository takes no responisibilty for the usage of this file.
