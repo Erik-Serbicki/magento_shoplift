@@ -11,4 +11,4 @@ python3 magento_shoplift.py http://targeturl -u username -p password
 
 ### Disclaimer 
 
-For educational purposes only, do not use without express permissiom. The owner of the repository takes no responisibilty for the usage of this file.
+For educational purposes only, do not use on a target without express permissiom. The owner of the repository takes no responsibility for the usage of this file.
